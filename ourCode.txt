@@ -7,3 +7,8 @@ I added some more imporvements, maybe refactored the code
 
 
 Now I added another functionality, quasi-unrelated to the first one
+
+added another fuction
+
+
+This is a fucntion I started working on
