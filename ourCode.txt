@@ -7,4 +7,4 @@ I added some more imporvements, maybe refactored the code
 added another fuction
 
 
-This is a fucntion I started working on, but it's unfinished
+This is a fucntion I started working on
